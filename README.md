@@ -6,6 +6,7 @@
 #WITH IMU GY-25 PID CONTROL USING SOFTWARE KEIL 5 UVISION 
 
 #CONTACT : 
+
            Email : rizkyzullfhamy@gmail.com
            WA    : 082337912401
            
